@@ -126,3 +126,8 @@ var rotate3D = {
 		})
 	}
 }
+
+/*使用方法
+  var container = document.getElementById('container');
+  rotate3D.init(container).click().mousemove();
+*/
